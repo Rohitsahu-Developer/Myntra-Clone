@@ -22,7 +22,7 @@ https://rohitsahu-developer.github.io/Myntra-Clone/
 ## 🛠️ Technologies Used
 - HTML5
 - CSS3
-- JavaScript
+- JavaScript (Optional)
 
 ---
 
